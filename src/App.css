@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+#box {
+  border: 1px solid gray;
+  width: 100px;
+  height: 100px;
+}
+
+/* #box:focus{
+  background-color: black;
+} */
+
+/* .App-wrapper {
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px;
+  grid-gap: 3px;
+}
+
+.App-box {
+  background-color: #fff;
+  padding: 50px;
+  border: 1px solid gray;
+} */
